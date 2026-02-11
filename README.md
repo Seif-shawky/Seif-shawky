@@ -9,9 +9,7 @@
 - 🚀 1.5+ years of professional experience
 - 💻 Specialized in **Angular & .NET**
 - 📱 Mobile Developer using **Flutter**
-- 🗄️ Experience with **MySQL, PostgreSQL, Docker**
-- 🏋️ Athlete & Weightlifting Enthusiast
-- 🥋 Former Judo Coach
+- 🗄️ Experience with **MySQL, PostgreSQL**
 
 ---
 
@@ -21,6 +19,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
