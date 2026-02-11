@@ -30,14 +30,7 @@
 #### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seif-shawky&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -69,6 +62,3 @@
   </a>
 </p>
 
----
-
-⭐️ *“Always learning. Always building.”*
