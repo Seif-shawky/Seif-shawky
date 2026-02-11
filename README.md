@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at **Pyramakerz**
+- 💼 Software Engineer
 - 🚀 1.5+ years of professional experience
 - 💻 Specialized in **Angular & .NET**
 - 📱 Mobile Developer using **Flutter**
