@@ -6,7 +6,6 @@
 ### 👨‍💻 About Me
 
 - 💼 Software Engineer
-- 🚀 1.5+ years of professional experience
 - 💻 Specialized in **Angular & .NET**
 - 📱 Mobile Developer using **Flutter**
 - 🗄️ Experience with **MySQL, PostgreSQL**
