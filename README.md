@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seif Shawky</h1>
-<h3 align="center">Full Stack Software Engineer | Angular | .NET | Flutter</h3>
+<h3 align="center">Full Stack Software Engineer | Angular | .NET | AI Integration</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 💼 Software Engineer
-- 💻 Specialized in **Angular & .NET**
+- 💻 Specialized in **Angular & .NET & AI**
 - 📱 Mobile Developer using **Flutter**
 - 🗄️ Experience with **MySQL, PostgreSQL**
 
