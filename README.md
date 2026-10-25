@@ -47,7 +47,7 @@
   <a href="https://github.com/Seif-shawky">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/seif-shawky-b5829a37a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
